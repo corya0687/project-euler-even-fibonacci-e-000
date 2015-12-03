@@ -13,3 +13,8 @@
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 2](https://projecteuler.net/problem=2)
+
+Psuedo
+gather all numbers in fibonacci sequence under 4 million
+gather all numbers that are even
+add up all numbers that are even
